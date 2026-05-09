@@ -20,7 +20,7 @@ Oyun dünyasına olan tutkumu sadece içerik üreterek değil, kendi dijital dü
 
 ### 📈 GitHub İstatistiklerim
 
-[![Sercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEPHYRAsrcn&show_icons=true&theme=radium)](https://github.com/ZEPHYRAsrcn)
+[![Zephyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEPHYRAsrcn&show_icons=true&theme=radium)](https://github.com/ZEPHYRAsrcn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEPHYRAsrcn&layout=compact&theme=radium)](https://github.com/ZEPHYRAsrcn)
 
